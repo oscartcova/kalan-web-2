@@ -1,0 +1,16 @@
+{
+  "name": "Kalan",
+  "short_name": "Kalan",
+  "description": "Entiende tus contratos, verifica documentos y haz trámites paso a paso.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F5EF",
+  "theme_color": "#16326B",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
